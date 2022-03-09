@@ -1,2 +1,0 @@
-git = input()
-print(git)
